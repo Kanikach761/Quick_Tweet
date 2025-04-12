@@ -35,3 +35,10 @@ Template directories properly set up in settings.
 # Security:
 CSRF protection enabled.
 Only the tweet’s owner can edit or delete it.
+
+![welcome_page](https://github.com/user-attachments/assets/33005b1b-3bc9-45a7-ae8d-2e0a1c59c9d2)
+
+![login_page](https://github.com/user-attachments/assets/95bd51b0-e01c-4ad0-8957-4d4aadd444fb)
+![register_page](https://github.com/user-attachments/assets/b49f8c53-c8b8-496f-81fa-e386fbe0dd30)
+
+![tweet_page](https://github.com/user-attachments/assets/ee991c08-b482-4e48-9c24-707b87c80a92)
